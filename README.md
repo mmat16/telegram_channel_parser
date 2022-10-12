@@ -5,7 +5,7 @@
 - dateutil ("pip/pip3 install python-dateutil")
 
 Так же вам понадобится зарегистрировать собственное приложение Telegram.
-Для этого надо зайти на сайт https://my.telegram.org/apps, зайти по в свою учётную запись Telegram и создать приложение
+Для этого надо зайти на сайт https://my.telegram.org/apps, зайти в свою учётную запись Telegram и создать приложение
 (Create new application).
 Следует указать:
 - App title - название приложения (неважно какое)
