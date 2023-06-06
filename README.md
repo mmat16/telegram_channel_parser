@@ -1,8 +1,11 @@
 # telegram channel parser
-Для того чтобы пользоваться данным парсером вам необходимо установить Python3 и несколько сторонних библиотек.
-Таких как:
-- telethon (устанавливается командой "pip/pip3 install telethon" в директории скрипта)
-- dateutil ("pip/pip3 install python-dateutil")
+Для того чтобы пользоваться данным парсером вам необходимо установить Python3 и несколько сторонних библиотек с помощью данной команды:
+
+На Windows:
+<code>pip install -r requirements.txt</code>
+
+На Mac OS и Linux:
+<code>pip3 install -r requirements.txt</code>
 
 Так же вам понадобится зарегистрировать собственное приложение Telegram.
 Для этого надо зайти на сайт https://my.telegram.org/apps, зайти в свою учётную запись Telegram и создать приложение
